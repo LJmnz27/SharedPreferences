@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="you_have_just_signed_in">You have just Signed In!</string>
+</resources>
